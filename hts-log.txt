@@ -1,0 +1,54 @@
+HTTrack3.49-2 launched on Mon, 03 Feb 2020 16:21:05 at http://mega-prodazhi.ru/duxi/
+(httrack http://mega-prodazhi.ru/duxi/ -F "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0" -C0 -N1004 -n -I0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:33:03	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/16.png (from mega-prodazhi.ru/duxi/)
+16:33:04	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/18.png (from mega-prodazhi.ru/duxi/)
+16:33:09	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/19.png (from mega-prodazhi.ru/duxi/)
+16:33:09	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/21.png (from mega-prodazhi.ru/duxi/)
+16:33:11	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/45.png (from mega-prodazhi.ru/duxi/)
+16:33:12	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/46.png (from mega-prodazhi.ru/duxi/)
+16:33:18	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/47.png (from mega-prodazhi.ru/duxi/)
+16:33:20	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/48.png (from mega-prodazhi.ru/duxi/)
+16:33:23	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/73.png (from mega-prodazhi.ru/duxi/)
+16:33:28	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/74.png (from mega-prodazhi.ru/duxi/)
+16:33:28	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/76.png (from mega-prodazhi.ru/duxi/)
+16:33:28	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/77.png (from mega-prodazhi.ru/duxi/)
+16:33:35	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-14.png (from mega-prodazhi.ru/duxi/)
+16:33:36	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-16.png (from mega-prodazhi.ru/duxi/)
+16:33:36	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-17.png (from mega-prodazhi.ru/duxi/)
+16:33:46	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-19.png (from mega-prodazhi.ru/duxi/)
+16:33:52	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-41.png (from mega-prodazhi.ru/duxi/)
+16:33:52	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-42.png (from mega-prodazhi.ru/duxi/)
+16:33:53	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-44.png (from mega-prodazhi.ru/duxi/)
+16:33:54	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-47.png (from mega-prodazhi.ru/duxi/)
+16:34:00	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-109.png (from mega-prodazhi.ru/duxi/)
+16:34:01	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-110.png (from mega-prodazhi.ru/duxi/)
+16:34:03	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-111.png (from mega-prodazhi.ru/duxi/)
+16:34:08	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-113.png (from mega-prodazhi.ru/duxi/)
+16:34:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-137.png (from mega-prodazhi.ru/duxi/)
+16:34:10	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-138.png (from mega-prodazhi.ru/duxi/)
+16:34:14	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-139.png (from mega-prodazhi.ru/duxi/)
+16:34:16	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-140.png (from mega-prodazhi.ru/duxi/)
+16:34:17	Error: 	"Not Found" (404) at link mega-prodazhi.ru/duxi/duxi/1-300-144.png (from mega-prodazhi.ru/duxi/)
+16:34:17	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/mduxi/24.png (from mega-prodazhi.ru/duxi/)
+16:34:18	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/mduxi/26.png (from mega-prodazhi.ru/duxi/)
+16:34:19	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/mduxi/27.png (from mega-prodazhi.ru/duxi/)
+16:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/mduxi/28.png (from mega-prodazhi.ru/duxi/)
+16:34:25	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/mduxi/1-300-69.png (from mega-prodazhi.ru/duxi/)
+16:34:25	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/mduxi/1-300-70.png (from mega-prodazhi.ru/duxi/)
+16:34:26	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/mduxi/1-300-71.png (from mega-prodazhi.ru/duxi/)
+16:34:30	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/js/custom-functionss.min.js (from mega-prodazhi.ru/duxi/)
+16:34:32	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/js/vendors/intlTelInput/css/intlTelInput.css (from mega-prodazhi.ru/duxi/)
+16:34:32	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/input_style.css (from mega-prodazhi.ru/duxi/)
+16:34:34	Warning: 	File not parsed, looks like binary: mega-prodazhi.ru/duxi/wp-content/themes/parfums/fonts/HelveticaNeueCyr-Lightd41dd41d.eot-
+16:34:34	Warning: 	File not parsed, looks like binary: mega-prodazhi.ru/duxi/wp-content/themes/parfums/fonts/Alexanderd41dd41d.eot-
+16:34:34	Warning: 	Retry after error -4 (No data (connection closed)) at link mega-prodazhi.ru/duxi/duxi/1-300-44.png (from mega-prodazhi.ru/duxi/)
+16:34:34	Error: 	"Not Found" (404) at link mega-prodazhi.ru/duxi/index.html (from mega-prodazhi.ru/duxi/wp-content/themes/parfums/js/main2.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 31 seconds : 417 links scanned, 374 files written (13251725 bytes overall) [12543686 bytes received at 15466 bytes/sec], 1085470 bytes transferred using HTTP compression in 29 files, ratio 23%, 6.6 requests per connection
+(2 errors, 41 warnings, 0 messages)

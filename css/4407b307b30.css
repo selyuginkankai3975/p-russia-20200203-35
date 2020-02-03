@@ -1,0 +1,340 @@
+.globalWrapper {
+    max-width: 440px;
+    min-width: 440px;
+	-webkit-box-shadow: none;
+	box-shadow:none;
+}
+
+.menuWrapper{
+	width:440px;
+	border:1px dotted red;
+}
+
+.resize {
+    position: relative;
+    width: 440px;
+    margin: 0 auto;
+}
+
+.resize_gor_first {
+    width: 440px;
+    margin: 0 auto;
+    display: block;
+}
+
+.news_block img#tolik {
+    width: 440px;
+    margin-top: 35px;
+    height: auto;
+    float: left;
+}
+
+.exp_r {
+    width: 440px;
+}
+
+.banerBg{
+	width:100%; 
+}
+
+.banerBg p.b_text_1 span {
+    margin: auto;
+    display: inline-block;
+    color: #fff;
+    font-size: 22px;
+}
+
+.banerBg p.b_text_1 {
+    margin-top: 0px; 
+  
+}
+
+.news_block p.news_t_4 {
+    padding-left: 0px;
+}
+
+.why ul li {
+    width: 130px;
+}
+
+.feed .owl-carousel .owl-item {
+    width: 440px !important;
+}
+
+.firstWrapper .resize {
+    width: 440px;
+}
+
+.sale_block .left img{
+	margin-left:0px;
+	width:440px;
+}
+
+
+.sale_block .left .sale_t_1 {
+    font-size: 25px;
+    margin-left: 20px;
+   
+}
+
+.sale_block .left .sale_t_2 {
+    font-size: 30px;
+    margin-left: 25px;
+}
+
+.owl-item{
+	width:440px;
+}
+
+.feed .owl-item .right2>p{
+	width:440px;
+}
+
+.feed .owl-item .right2{
+	width:440px;
+}
+
+.feed .owl-item .right{
+	width:440px;
+}
+
+.dostavkaWrapper{
+	background:none;
+	color:#666;
+	text-align:center;
+}
+
+.dostavkaWrapper h2{
+	color:#666;
+	text-align:center;
+}
+
+.dostavkaWrapper ul li{
+	color:#666;
+	text-align:center;
+}
+
+.dostavkaWrapper h2 span{
+	color:#666;
+	text-align:center;
+}
+
+.finalWrapper{
+	width:440px;
+	background:none;
+	height:auto;
+}
+
+.finalWrapper h2 {
+    margin-top: 0;
+}
+
+.footer {
+    width:440px;
+}
+
+.why h2 {
+    font-size: 32px;
+    
+}
+
+.catalog .item .posa {
+    right: -20px;
+}
+
+.dead_magazine.active{
+	width:440px;
+}
+
+
+
+.dead_magazine.active .time {
+    width: 250px;
+	left:70px;
+	
+}
+
+
+.dead_magazine.active h4{
+	font-size:14px;
+	width: 180px;
+	line-height: 14px;
+	text-align:left;
+}
+
+.banerBg p.b_text_4 {
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 5px;
+}
+
+.banerBg p.b_text_1 {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.banerBg p.b_text_1 span {
+    font-size: 18px;
+}
+
+.banerBg p.b_text_2 {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.banerBg p.b_text_3 span {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.banerBg p.b_text_5 {
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.banerBg p.b_text_6 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.news_block .news_t_3 span {
+    padding-right: 0px;
+}
+
+.feed{
+	display:none;
+}
+
+.footer .left, .footer .right {
+    width: 440px;
+}
+
+.dostavkaWrapper{
+	height:auto;
+}
+
+.dostavkaWrapper .line{
+	display:none;
+}
+
+.dostavkaWrapper ul{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+.dostavkaWrapper h2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.dead_magazine,
+.menuBlock,
+.menuWrapper ,
+.hover_pop_up{
+	height:60px;
+}
+
+.popup_corsina h2{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.popup_corsina{
+	width:440px;
+}
+
+.popup_corsina .head {
+    width:440px;
+}
+
+.popup_corsina .head p.tovar{
+	width:90px;
+}
+.popup_corsina .head p.name{
+	display:none;
+}
+.popup_corsina .head p.price{
+	width:60px;
+}
+.popup_corsina .head .kolichestvi{
+	width:70px;
+}
+.popup_corsina .head p.suma{
+	width:50px;
+}
+
+
+
+.buttons_pokupki {
+    width: 440px;
+}
+
+.popup_corsina .tovar_row {
+    width: 440px;
+}
+
+.buttons_pokupki a{
+	width:100%;
+}
+
+.buttons_pokupki a + a {
+	float: left;
+}
+
+.plus-product{
+	display:block;
+}
+
+.sell-block {
+    margin: 0;
+	padding: 0;
+    font-size: 14px;
+	display:inline-block;
+}
+
+.modalWindow{
+	width:440px;
+}
+
+.footer .left p{
+	display:block;
+}
+
+.finalWrapper a {
+    margin-top: 20px;
+}
+
+.not-timer{
+	display:none;
+}
+
+input[type=submit]{
+	width:320px;
+}
+
+textarea{
+	width:320px;
+	padding:10px 0;
+}
+
+input[type=text], input[type=tel] {
+    width:320px;
+}
+
+.checkout h2 {
+    text-align: center;
+    padding: 5px 0;
+}
+
+.modalWindow h3 {
+    padding: 5px 0px;
+}
+
+.callbackkiller{
+	display:none;
+}
+
+.catalog .item {
+    width: 320px;
+  
+}
